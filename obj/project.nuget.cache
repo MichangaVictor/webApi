@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+6G+J7ncfKe0u5mtBrtGV5DCJ9utne5c7cGTsqxnssYdQ33DCZQDa3xFYXSCzy39FmeTmJIx19OnAR48GOtPzQ==",
+  "dgSpecHash": "S1yOzDiHu+Bw7dUf2X9eHoxUdYQIL7K8YrEFXnWvjpR0nb1p73ICyXoHsuyV4BRMw3TZ9BccYhxQov4OhHcheQ==",
   "success": true,
-  "projectFilePath": "E:\\Personal\\WebApi\\WebApi.csproj",
+  "projectFilePath": "E:\\Personal\\C#\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\onyan\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
     "C:\\Users\\onyan\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
