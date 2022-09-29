@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Personal\\C#\\WebApi\\WebApi.csproj": {}
+    "E:\\Personal\\AspDotNetCore\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "E:\\Personal\\C#\\WebApi\\WebApi.csproj": {
+    "E:\\Personal\\AspDotNetCore\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Personal\\C#\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "E:\\Personal\\AspDotNetCore\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "E:\\Personal\\C#\\WebApi\\WebApi.csproj",
+        "projectPath": "E:\\Personal\\AspDotNetCore\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\onyan\\.nuget\\packages\\",
-        "outputPath": "E:\\Personal\\C#\\WebApi\\obj\\",
+        "outputPath": "E:\\Personal\\AspDotNetCore\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
